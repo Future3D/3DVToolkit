@@ -2,7 +2,7 @@
 RGBD Sensor factory
 Author: Jeff Mahler
 """
-from . import Kinect2Sensor
+from . import kinect2_Sensor
 
 class RgbdSensorFactory:
     """ Factory class for Rgbd camera sensors. """
