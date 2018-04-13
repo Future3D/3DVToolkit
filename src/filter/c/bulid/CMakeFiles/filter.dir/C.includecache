@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/filter/img_filter.c
+stdio.h
+-
+string.h
+-
+math.h
+-
+stdint.h
+-
+img_filter.h
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/filter/img_filter.h
+
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/filter/img_filter.h
+stdint.h
+-
+
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/filter/main.c
+stdio.h
+-
+

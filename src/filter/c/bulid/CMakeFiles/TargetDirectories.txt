@@ -1,0 +1,3 @@
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/bulid/CMakeFiles/edit_cache.dir
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/bulid/CMakeFiles/rebuild_cache.dir
+/home/jokes/my_file/3D_project/vision-toolkit/src/filter/c/bulid/CMakeFiles/filter.dir
